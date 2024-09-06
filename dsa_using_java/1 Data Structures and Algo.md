@@ -18,3 +18,7 @@
 ### What is a pointer?
 - Pointer is used to point the address of the value stored anywhere in the computer memory. To obtain the value stored at location is knows as dereferencing pointer.
 
+
+
+# Data Structures
+- [[Arrays]]
