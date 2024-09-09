@@ -16,9 +16,13 @@
 	- Greedy Algo
 
 ### What is a pointer?
+<<<<<<< HEAD:dsa_using_java/1 Data Structures and Algo.md
 - Pointer is used to point the address of the value stored anywhere in the computer memory. To obtain the value stored at location is knows as dereferencing pointer.
 
 
 
 # Data Structures
 - [[Arrays]]
+=======
+- Pointer is used to point the address of the value stored anywhere in the computer memory. To obtain the value stored at location is knows as dereferencing pointer.
+>>>>>>> 7a5b7f25162c6385df6214ee54316ef15b210239:dsa_using_java/Data Structures and Algo.md
